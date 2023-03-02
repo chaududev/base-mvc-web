@@ -1,1 +1,3 @@
-# MVCEntity![ec](https://user-images.githubusercontent.com/81465934/222314364-58863ed4-db5d-4d91-9cfe-8068058fa6b5.JPG)
+# MVCEntity
+Manage Customer page : CRUD 
+![oh](https://user-images.githubusercontent.com/81465934/222314560-41c9a7e0-d120-4156-92f4-fea1e16d282b.JPG)
